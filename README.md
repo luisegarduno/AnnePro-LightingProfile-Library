@@ -62,5 +62,8 @@ __Yacht in a Cove (Static)__ | [Source](https://github.com/sikicode/anne-pro2-li
 
 ![image](https://user-images.githubusercontent.com/30121656/167228385-96983db0-881a-4e38-87f1-cedf37e00d95.png)
 
+__More Lighting Profiles (Static)__ | [Source](https://www.reddit.com/r/AnnePro/comments/k6wfm2/sharing_my_anne_pro_2_lighting_profiles/)
+
+![Anne Pro 2 Lighting Profiles Preview](https://user-images.githubusercontent.com/30121656/167228973-b1eb2825-c145-4508-b735-5341ca01d972.png)
 
 
