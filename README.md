@@ -3,7 +3,8 @@ A repo of ALOT of color profiles for the Anne Pro 2 programmable 60% RGB keyboar
 
 # Previews
 
-Note: Also make sure to check out [Flags](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Flags/README.md) alongside their previews!
+:arrow_right: __Also, Checkout [Flags](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Flags/README.md)!__
+<br></br>
 
 __Four Leaf Clover (Static)__ | [Source](https://github.com/sikicode/anne-pro2-lighting/blob/master/Four%20Leaf%20Clover.json) | Volume-2
 
@@ -67,5 +68,3 @@ __Yacht in a Cove (Static)__ | [Source](https://github.com/sikicode/anne-pro2-li
 __More Lighting Profiles (Static)__ | [Source](https://www.reddit.com/r/AnnePro/comments/k6wfm2/sharing_my_anne_pro_2_lighting_profiles/)
 
 ![Anne Pro 2 Lighting Profiles Preview](https://user-images.githubusercontent.com/30121656/167228973-b1eb2825-c145-4508-b735-5341ca01d972.png)
-
-
