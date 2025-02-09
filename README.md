@@ -8,7 +8,7 @@ A repository of ALOT of color profiles for the Anne Pro 2 programmable 60% RGB k
 
 __Four Leaf Clover (Static)__ | Volume-2
 <!-- Original: https://github.com/sikicode/anne-pro2-lighting/blob/master/Four%20Leaf%20Clover.json -->
-[![image](https://user-images.githubusercontent.com/30121656/167228382-e4b7fbe5-54ff-4e70-bb17-9b4565ef42a8.png)](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Volume-2/Four%20Leaf%20Clover.json)
+[![FourLeafClover](https://user-images.githubusercontent.com/30121656/167228382-e4b7fbe5-54ff-4e70-bb17-9b4565ef42a8.png)](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Volume-2/Four%20Leaf%20Clover.json)
 <br></br>
 
 __Functional (Static)__ | Volume-1
@@ -23,12 +23,12 @@ __Girl on Swing2 (Static)__ | Volume-2
 
 __Girls Strolling in an Orchard (Static)__ | Volume-2
 <!-- Original:  https://github.com/sikicode/anne-pro2-lighting/blob/master/Girls%20Strolling%20in%20Orchard.json -->
-[![image](https://user-images.githubusercontent.com/30121656/167228374-f93ece04-b23a-4bf6-94ae-47c529a5ca74.png)](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Volume-2/Girls%20Strolling%20in%20Orchard.json)
+[![GirlsStrollingInAnOrchard](https://user-images.githubusercontent.com/30121656/167228374-f93ece04-b23a-4bf6-94ae-47c529a5ca74.png)](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Volume-2/Girls%20Strolling%20in%20Orchard.json)
 <br></br>
 
 __G.S.and Sloop (Static)__ | Volume-2
 <!-- Original:  https://github.com/sikicode/anne-pro2-lighting/blob/master/G.%20S.%20and%20Sloop.json -->
-[![image](https://user-images.githubusercontent.com/30121656/167228353-39d42679-7957-49cd-a0c8-2f8e8d544a40.png)](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Volume-2/G.%20S.%20and%20Sloop.json)
+[![GSandSloop](https://user-images.githubusercontent.com/30121656/167228353-39d42679-7957-49cd-a0c8-2f8e8d544a40.png)](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Volume-2/G.%20S.%20and%20Sloop.json)
 <br></br>
 
 __Miami Nights (Static)__ | Volume-1
@@ -43,7 +43,7 @@ __Normal (Static)__ | Volume-1
 
 __Prout's Neck (Static)__ | Volume-2
 <!-- Original:  https://github.com/sikicode/anne-pro2-lighting/blob/master/Prout's%20Neck.json -->
-[![image](https://user-images.githubusercontent.com/30121656/167228364-9c192d8b-4da4-491a-9d73-c22c15ff60fe.png)](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Volume-2/Prout's%20Neck.json)
+[![ProutsNeck](https://user-images.githubusercontent.com/30121656/167228364-9c192d8b-4da4-491a-9d73-c22c15ff60fe.png)](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Volume-2/Prout's%20Neck.json)
 <br></br>
 
 __Rainbow Bands (Static)__ | Volume-1
@@ -58,12 +58,12 @@ __Rainbow Stripes (Static)__ | Volume-1
 
 __Sunrise (Static)__ | Volume-2
 <!-- Original:  https://github.com/sikicode/anne-pro2-lighting/blob/master/Sunrise.json -->
-[![image](https://user-images.githubusercontent.com/30121656/167228300-ef040bea-59f2-4b30-83a8-da511ad16fbe.png)](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Volume-2/Sunrise.json)
+[![Sunrise](https://user-images.githubusercontent.com/30121656/167228300-ef040bea-59f2-4b30-83a8-da511ad16fbe.png)](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Volume-2/Sunrise.json)
 <br></br>
 
 __Yacht in a Cove (Static)__ | Volume-2
 <!-- Original:  https://github.com/sikicode/anne-pro2-lighting/commit/7d47fe3e1246111f3100ae592362bca3b8cb257e -->
-[![image](https://user-images.githubusercontent.com/30121656/167228385-96983db0-881a-4e38-87f1-cedf37e00d95.png)](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Volume-2/Yacht%20in%20a%20Cove.json)
+[![YatchInACove](https://user-images.githubusercontent.com/30121656/167228385-96983db0-881a-4e38-87f1-cedf37e00d95.png)](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Volume-2/Yacht%20in%20a%20Cove.json)
 
 __More Lighting Profiles (Static)__
 <!-- Original:  https://www.reddit.com/r/AnnePro/comments/k6wfm2/sharing_my_anne_pro_2_lighting_profiles/ -->
