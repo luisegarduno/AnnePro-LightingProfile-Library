@@ -9,7 +9,7 @@ A repository of ALOT of color profiles for the Anne Pro 2 programmable 60% RGB k
 __Four Leaf Clover (Static)__ | Volume-2
 
 <!-- Original: https://github.com/sikicode/anne-pro2-lighting/blob/master/Four%20Leaf%20Clover.json -->
-[![FourLeafClover](https://user-images.githubusercontent.com/30121656/167228382-e4b7fbe5-54ff-4e70-bb17-9b4565ef42a8.png)](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Volume-2/Four%20Leaf%20Clover.json)
+[![FourLeafClover](https://user-images.githubusercontent.com/30121656/167228382-e4b7fbe5-54ff-4e70-bb17-9b4565ef42a8.png)](Volume-2/Four%20Leaf%20Clover.json)
 <br/><br/>
 
 __Functional (Static)__ | Volume-1
