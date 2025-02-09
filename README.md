@@ -4,7 +4,7 @@ A repository of ALOT of color profiles for the Anne Pro 2 programmable 60% RGB k
 # Previews
 
 :arrow_right: __Also, Checkout [Flags](https://github.com/luisegarduno/AnnePro-LightingProfile-Library/blob/main/Flags/README.md)!__
-<br></br>
+<br/>
 
 __Four Leaf Clover (Static)__ | Volume-2
 
