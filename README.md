@@ -1,4 +1,7 @@
 # AnnePro-LightingProfile-Library
+
+![TotalViews](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fluisegarduno%2FEnigmaChess&label=Total-Views&icon=github&color=%230969da)
+
 A repository of ALOT of color profiles for the Anne Pro 2 programmable 60% RGB keyboard
 
 # Previews
